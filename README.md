@@ -430,7 +430,7 @@ if __name__ == "__main__":
   <tr bgcolor="#e4e4ed">
     <td style="color:#141414" align="center"><b>Conclusiones:</b> 
       <li>Con iteración el programa demoro aproximadamente 0.03344 segundos, lo que hizo que en ese tiempo no se evidenciara gran diferencia entre las series. </li>
-      <li>Con recursión el programa demoro aproximadamente 0.03344 segundos, en donde la diferencia entre series comenzó a ser significativa a partir de la serie 39 (se demoró aproximadamente 10.27484 segundos), y desde este punto las series comenzaron a tardar cada vez más, hasta finalizar con la serie 50 con _ segundos. Y el programa finalizó con un tiempo de _ segundos, lo que aproximadamente son _ minutos.</li>
+      <li>Con recursión el programa demoro aproximadamente 0.03344 segundos, en donde la diferencia entre series comenzó a ser significativa a partir de la serie 39 (se demoró aproximadamente 10.27484 segundos), y desde este punto las series comenzaron a tardar cada vez más, hasta finalizar con la serie 50 con 1617.02132 segundos. Y el programa finalizó con un tiempo de 9611.26689 segundos, lo que aproximadamente son 160 minutos.</li>
       <li>Por ende, para realizar la sucesión de Fibonacci el método más eficiente (debido a su rapidez) es la iteración.</li>
     </td>
   </tr>
