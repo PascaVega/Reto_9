@@ -557,3 +557,5 @@ if __name__ == "__main__":
     <td style="color:#141414" align="center">Link del perfil de Likedin www.linkedin.com/in/angélica-pascagaza-vega-186610305<a href="www.linkedin.com/in/angélica-pascagaza-vega-186610305"></a></td>
   </tr>
 </table>
+
+[![Captura-de-pantalla-2024-04-22-145842.png](https://i.postimg.cc/T2NqD39M/Captura-de-pantalla-2024-04-22-145842.png)](https://postimg.cc/w3JmKHZ0)
